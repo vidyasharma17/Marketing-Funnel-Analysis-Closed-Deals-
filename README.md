@@ -1,4 +1,4 @@
-# **Closed Deals Performance Analysis**
+# **Marketing Funnel Optimization / Analysis**
 
 ## **Overview**
 This project analyzes data on qualified leads and closed deals, focusing on identifying trends, evaluating deal outcomes, and providing actionable insights. By merging and exploring datasets, this project uncovers key patterns in lead qualification and deal closures, offering strategies to optimize sales pipelines.
